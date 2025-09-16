@@ -11,6 +11,22 @@
     "description": "Highly customizable components for building modern websites and applications that look and feel the way you mean it.",
     "startBuilding": "Start Building",
     "requestDemo": "Request a demo",
-    "aiModels": "Introducing Support for AI Models"
+    "aiModels": "Introducing Support for AI Models",
+    "features": {
+      "title": "Key Features",
+      "responsive": "Responsive Design",
+      "performance": "High Performance",
+      "security": "Enterprise Security",
+      "support": "24/7 Support"
+    },
+    "about": {
+      "title": "About Our Platform",
+      "content": "We provide cutting-edge solutions that help businesses connect with their customers more effectively. Our platform combines modern technology with user-friendly design."
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "email": "Email Us",
+      "phone": "Call Us"
+    }
   }
 }
